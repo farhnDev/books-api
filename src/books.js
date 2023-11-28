@@ -1,13 +1,3 @@
-const {
-    addBookHandler,
-} = require('./handler');
+const books = [];
 
-const routes = [
-    {
-        method: 'POST',
-        path: '/books',
-        handler: addBookHandler,
-    },
-];
-
-module.exports = routes;
+module.exports = books;
