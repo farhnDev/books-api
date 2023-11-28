@@ -1,0 +1,20 @@
+[
+  {
+    "method": "POST",
+    "path": "/books"
+  },
+  {
+    "id": "kWL6zlU3pe",
+    "name": "Book Title",
+    "year": 2023,
+    "author": "Author Name",
+    "summary": "Book Summary",
+    "publisher": "Publisher Name",
+    "pageCount": 250,
+    "readPage": 50,
+    "finished": false,
+    "reading": true,
+    "insertedAt": "2023-11-27T18:40:49.018Z",
+    "updatedAt": "2023-11-27T18:40:49.018Z"
+  }
+]
